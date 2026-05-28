@@ -1,1 +1,5 @@
 print("Hello, World!")
+a = 5
+b = 10
+summa = a + b
+print(f"Сумма {a} и {b} = {summa}")
